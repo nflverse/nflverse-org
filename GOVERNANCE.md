@@ -63,7 +63,6 @@ The Core Team developers of the nflverse project are:
 * [Sebastian Carl](https://github.com/mrcaseb)
 * [Ben Baldwin](https://github.com/guga31bb)
 * [John Edwards](https://github.com/john-b-edwards)
-* [Lee Sharpe](https://github.com/leesharpe)
 
 Core Team developers are collectively responsible for day-to-day maintenance and development 
 of the project, including responding to issues and reviewing pull requests. They are 
