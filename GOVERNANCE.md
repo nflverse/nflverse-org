@@ -16,7 +16,7 @@ This document details how the project is governed and what the various responsib
 are for each role in the community.
 
 TLDR: The nflverse Core Team leads the strategy, development, and maintenance of the 
-project and actively welcomes contributions from the community of users and contributors.
+project and actively welcomes engagement from the community of users and contributors.
 
 ## Users
 
