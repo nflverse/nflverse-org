@@ -8,9 +8,12 @@ and is licensed under CC-BY-SA-4.0
 
 # nflverse Governance
 
-The nflverse project has a large community of __users__ and __contributors__, a team of 
-__Core Team__ developers, and a __Core Lead__. This document details how the project
-is governed and what the various responsibilities are for each role in the community.
+The nflverse project comprises all of the data pipelines, packages, and repositories
+under the nflverse [GitHub organization](https://github.com/nflverse) as well as the
+associated discussion forums (e.g. Discord server). It has a large community of __users__ 
+and __contributors__, a team of __Core Team__ developers, and a __Core Lead__. 
+This document details how the project is governed and what the various responsibilities 
+are for each role in the community.
 
 TLDR: The nflverse Core Team leads the strategy, development, and maintenance of the 
 project and actively welcomes contributions from the community of users and contributors.
